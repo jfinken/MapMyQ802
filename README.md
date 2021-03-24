@@ -43,3 +43,12 @@ from ROS and allows for complete analysis of your mapping session.
 # for example
 rtabmap-databaseViewer ../MapMyQ802/map_my_q802/map/rtabmap.db
 ```
+
+### Further Reading
+
+- [On Actively Closing Loops in Grid-based FastSLAM](http://ais.informatik.uni-freiburg.de/publications/papers/stachniss05ar.pdf)
+- [Autonomous Robotic Exploration Using Occupancy Grid Maps and Graph SLAM](https://www.seas.upenn.edu/~pdames/media/CarilloEtal2015.pdf)
+- [ROS Navigation Basics - Clearpath Robotics](http://www.clearpathrobotics.com/assets/guides/kinetic/ros/ROS%20Navigation%20Basics.html)
+- [Mapping and Localization Tutorial with Turtlebot](https://ocw.tudelft.nl/course-lectures/3-3-3-mapping-and-localization-tutorial/)
+- [ROS gmapping](http://wiki.ros.org/Robots/PMB-2/Tutorials/Navigation/Mapping)
+- [Editing a gmapping-derived map](https://www.theconstructsim.com/ros-qa-136-how-to-edit-a-map-generated-with-gmapping/)
